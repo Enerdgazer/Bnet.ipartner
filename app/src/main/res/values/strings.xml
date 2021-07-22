@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bnet.ipartner</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dialog_2">Dialog 2</string>
+    <string name="message_text">Обновить?</string>
+    <string name="title">Нет сети</string>
+    <string name="yes">Обновить</string>
+</resources>
