@@ -8,3 +8,14 @@
 Вывод как можно более нативный.
 
 <img src="https://github.com/Enerdgazer/Bnet.ipartner/blob/master/Screenshot_1626957705.png" width="250">
+
+<img src="https://github.com/Enerdgazer/Bnet.ipartner/blob/master/Screenshot_1626957813.png" width="250">
+
+<img src="https://github.com/Enerdgazer/Bnet.ipartner/blob/master/Screenshot_1626957855.png" width="250">
+
+<img src="https://github.com/Enerdgazer/Bnet.ipartner/blob/master/Screenshot_1626957858.png" width="250">
+
+<img src="https://github.com/Enerdgazer/Bnet.ipartner/blob/master/Screenshot_1626957883.png" width="250">
+
+<img src="https://github.com/Enerdgazer/Bnet.ipartner/blob/master/Screenshot_1626957885.png" width="250">
+
